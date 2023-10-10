@@ -7,7 +7,7 @@ firstSlice = str[2:end]
 secondSlice = str[end-2:end]
 
 # Print with interpolation
-println("First char is $firstChar")
+println("First char is $firstChar") # $ notation updates string dynamically
 println("Last char is $lastChar")
 println("First slice is $firstSlice")
 println("Second slice is $secondSlice")
