@@ -1,6 +1,6 @@
 # String manipulation
 
-str = "Hello"
+str = "Hello" # Strings need to be enclosed in " "
 firstChar = str[1] # Index start from 1
 lastChar = str[end] # end is a special keyword in julia
 firstSlice = str[2:end]
