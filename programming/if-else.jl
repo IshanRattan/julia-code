@@ -1,4 +1,6 @@
 
+# If-Else construct
+
 n = 10.0
 # Check if n is the correct type
 if typeof(n) == Int64
