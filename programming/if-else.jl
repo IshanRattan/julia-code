@@ -1,5 +1,5 @@
 
-# If-Else construct
+# if-else construct
 
 n = 10.0
 # Check if n is the correct type
